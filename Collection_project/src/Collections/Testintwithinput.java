@@ -26,6 +26,7 @@ public class Testintwithinput {
 		for(int d:numbers) {
 			System.out.println(d);
 			System.out.println("code is clear");
+			System.out.println("verified");
 		}
 		
 	
