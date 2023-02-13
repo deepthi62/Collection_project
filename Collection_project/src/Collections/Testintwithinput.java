@@ -25,6 +25,7 @@ public class Testintwithinput {
 		System.out.println("******print all elements******");
 		for(int d:numbers) {
 			System.out.println(d);
+			System.out.println("code is clear");
 		}
 		
 	
